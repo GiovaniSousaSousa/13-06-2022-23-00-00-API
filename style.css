@@ -1,0 +1,19 @@
+
+
+ DIV.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  DIV.botoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  img.foto{
+      width: 700px;
+      height: 500px;
+  }
+  body{
+      background-color: black;
+  }
